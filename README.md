@@ -1,21 +1,23 @@
 <div align="center">
 
-# TEMPLATE-AppImage 🐧
+# Chocolate-Stunts-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/TEMPLATE-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/TEMPLATE-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/TEMPLATE-AppImage)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Chocolate-Stunts-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Chocolate-Stunts-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Chocolate-Stunts-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Chocolate-Stunts-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Chocolate-Stunts-AppImage)](https://github.com/pkgforge-dev/Chocolate-Stunts-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/pkgforge-dev/Chocolate-Stunts-AppImage/refs/heads/main/AppDir/icon.png" width="128" />
 </p>
 
 
-| Latest Stable Release | Upstream URL |
-| :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| Latest Stable Release | Latest Nightly Release | Upstream URL |
+| :---: | :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/Chocolate-Stunts-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Chocolate-Stunts-AppImage/releases/tag/nightly) | [Click here](https://github.com/CommonLoon102/restunts-bb11) |
 
 </div>
+
+### ⚠️ Game assets within `~/.local/share/restunts/` ⚠️
 
 ---
 
