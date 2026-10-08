@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Chocolate Stunts
+Comment="Vanilla, Chocolate and SDL port for Stunts 1.1"
+Exec=restunts
+Icon=icon
+StartupWMClass=restunts
+Terminal=false
+Categories=Game;Racing;
